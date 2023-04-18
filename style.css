@@ -44,6 +44,7 @@ body {   font-family: 'Open Sans', sans-serif;}
   align-items: center;
   padding: 1%;
   border-bottom: 2px solid #ffffff;
+  background-color: #242424;
 }
 
 #logo {

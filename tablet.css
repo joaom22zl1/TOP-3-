@@ -39,6 +39,7 @@
   body {   font-family: 'Open Sans', sans-serif;}
   
   #cabecalho {
+    background-color: #242424;
     display: flex;
     justify-content: center;
     align-items: center;
